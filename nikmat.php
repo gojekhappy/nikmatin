@@ -9,9 +9,9 @@ $headers[] = 'X-Location: -6.405821,106.064193';
 
         echo "\n";
         echo "\e[92m--------------------------------------------------\n";
-        echo "\e[92m|          Powerd by    CEO GOJEK NADIEM               |\n";
-        echo "\e[92m|            Thanks You Dio alief            |\n";
-        echo "\e[92m|     https://github.com/gojekhappy/penikmat   |\n";
+        echo "\e[92m|          Powerd by    CEO GOJEK NADIEM         |\n";
+        echo "\e[92m|            Thanks You Dio alief                |\n";
+        echo "\e[92m|     https://github.com/gojekhappy/penikmat     |\n";
         echo "\e[92m|   SCRIPT GOJEK AUTO REGIST + AUTO SAVE TOKEN   |\n";
         echo "\e[92m|                    GOODLUCK                    |\n";
         echo "\e[92m--------------------------------------------------\n";
