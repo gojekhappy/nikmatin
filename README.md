@@ -11,6 +11,6 @@
   $git clone https://github.com/gojekhappy/nikmatin
 # use 
 
-$cd gojekhappy
+$cd nikmatin
 
-$php penikmat.php
+$php santet.php
