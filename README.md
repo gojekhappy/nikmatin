@@ -8,7 +8,7 @@
 
   $pkg install git
 
-  $git clone 
+  $git clone https://github.com/gojekhappy/nikmatin
 # use 
 
 $cd gojekhappy
